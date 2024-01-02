@@ -29,6 +29,11 @@ The Invoice Management API allows you to:
 - **URL:** `/invoices/<int:pk>/`
 - **HTTP Method:** GET
 
+### Delete an existing invoice:
+
+- **URL:** `/invoices/<int:pk>/`
+- **HTTP Method:** DELETE
+
 ### Create a new invoice:
 
 - **URL:** `/invoices/`
